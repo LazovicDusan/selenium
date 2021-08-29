@@ -1,0 +1,5 @@
+1. py.test -s -v .\tests\home\courses_tests.py --browser=firefox --html=testreport.html
+
+2. py.test -s -v .\tests\courses\login_tests.py --browser=firefox --html=testreport.html
+
+3. py.test -s -v .\tests\test_suit.py --browser=firefox --html=testreport.html
