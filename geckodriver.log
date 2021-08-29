@@ -1,0 +1,1419 @@
+1628959121794	geckodriver	INFO	Listening on 127.0.0.1:60628
+1628959124956	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileFuG7e1"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628959127400	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileFuG7e1\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628959133878	Marionette	INFO	Listening on port 60636
+1628959134318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1628959161465	Marionette	INFO	Stopped listening on port 60636
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1628959997371	geckodriver	INFO	Listening on 127.0.0.1:60749
+1628960000379	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile0A1oMp"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628960001622	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile0A1oMp\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628960008608	Marionette	INFO	Listening on port 60757
+1628960008783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://d235vmrai5heq2.cloudfront.net/fonts/fontawesome-free-5.11.1/css/all.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/bundles/Zenler/css/Zenler_skeleton.css?v=V3.1.60081 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/bundles/Zenler/css/Zenler_blocks.css?v=V3.1.60081 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/community/icon.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/css/counteverest/counteverest.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/manage-elements.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/admin/lib/bootstrap-sweetalert/sweetalert.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s3.amazonaws.com/contents.newzenler.com/3072/css/brand.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css?family=Catamaran without a browsingContextID set
+console.warn: "Resource  of root-node was not found."
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+console.error: (new TypeError("this.window is null", "resource://devtools/server/actors/targets/frame.js", 36))
+TypeError: this.window is null: get@resource://devtools/server/actors/targets/frame.js:36:5
+onDocumentEvent@resource://devtools/server/actors/resources/document-event.js:55:11
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+_emit@resource://devtools/shared/event-emitter.js:255:20
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+onContentLoaded@resource://devtools/server/actors/webconsole/listeners/document-events.js:153:10
+onWindowReady/<@resource://devtools/server/actors/webconsole/listeners/document-events.js:130:19
+
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1628966791346	Marionette	INFO	Stopped listening on port 60757
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+e	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile1nA6Pj\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[Parent 8304, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628963956543	Marionette	INFO	Listening on port 61234
+1628963959361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1628963983066	Marionette	INFO	Stopped listening on port 61234
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8304, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628964064257	geckodriver	INFO	Listening on 127.0.0.1:61366
+1628964067159	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileT2ia47"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628964069930	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileT2ia47\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628964076551	Marionette	INFO	Listening on port 61374
+1628964076757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1628964093464	Marionette	INFO	Stopped listening on port 61374
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628966567212	geckodriver	INFO	Listening on 127.0.0.1:61511
+1628966570320	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilezmBfSY"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628966573520	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilezmBfSY\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628966580398	Marionette	INFO	Listening on port 61519
+1628966580904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1628966607682	Marionette	INFO	Stopped listening on port 61519
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 9460, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628966840590	geckodriver	INFO	Listening on 127.0.0.1:61641
+1628966843586	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile2yHffs"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628966846131	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile2yHffs\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628966851163	Marionette	INFO	Listening on port 61649
+1628966851348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1628967266344	Marionette	INFO	Stopped listening on port 61649
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1628966983811	Marionette	INFO	Listening on port 61780
+1628966983924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1628967007045	Marionette	INFO	Stopped listening on port 61780
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 9564, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9564, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628972120079	geckodriver	INFO	Listening on 127.0.0.1:62021
+1628972123249	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHIuCUl"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628972127130	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHIuCUl\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628972140453	Marionette	INFO	Listening on port 62029
+1628972141268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://d235vmrai5heq2.cloudfront.net/fonts/fontawesome-free-5.11.1/css/all.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/bundles/Zenler/css/Zenler_skeleton.css?v=V3.1.60081 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/bundles/Zenler/css/Zenler_blocks.css?v=V3.1.60081 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/community/icon.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/css/counteverest/counteverest.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/manage-elements.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/admin/lib/bootstrap-sweetalert/sweetalert.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s3.amazonaws.com/contents.newzenler.com/3072/css/brand.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css?family=Catamaran without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900 without a browsingContextID set
+1628972860543	Marionette	INFO	Stopped listening on port 62029
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1628972886193	geckodriver	INFO	Listening on 127.0.0.1:62223
+1628972889202	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileUOKz6T"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628972892136	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileUOKz6T\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628972899072	Marionette	INFO	Listening on port 62231
+1628972899374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1628972916040	Marionette	INFO	Stopped listening on port 62231
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 7464, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628972940713	geckodriver	INFO	Listening on 127.0.0.1:62361
+1628972943996	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilePKdb3z"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628972945948	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilePKdb3z\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628972953256	Marionette	INFO	Listening on port 62369
+1628972953355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1628972965706	Marionette	INFO	Stopped listening on port 62369
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1628973188895	geckodriver	INFO	Listening on 127.0.0.1:62482
+1628973191979	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilevqrcmF"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628973194679	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilevqrcmF\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628973201795	Marionette	INFO	Listening on port 62490
+1628973201866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1628973216605	Marionette	INFO	Stopped listening on port 62490
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1628973256134	geckodriver	INFO	Listening on 127.0.0.1:62602
+1628973259179	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilenIvfR7"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628973261577	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilenIvfR7\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628973267963	Marionette	INFO	Listening on port 62610
+1628973268059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Unable to read VR Path Registry from C:\Users\User\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7608, MediaDecoderStateMachine #1] WARNING: dd92040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1629024070354	Marionette	INFO	Stopped listening on port 62610
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2047: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilesPYTEz\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628976206382	Marionette	INFO	Listening on port 63064
+1628976206886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1628976221291	Marionette	INFO	Stopped listening on port 63064
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628976327445	geckodriver	INFO	Listening on 127.0.0.1:63183
+1628976330446	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileSFGre5"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628976332962	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileSFGre5\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628976338900	Marionette	INFO	Listening on port 63191
+1628976339207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1628976354095	Marionette	INFO	Stopped listening on port 63191
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628976423295	geckodriver	INFO	Listening on 127.0.0.1:63309
+1628976426354	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileH61DmR"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628976429643	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileH61DmR\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628976435317	Marionette	INFO	Listening on port 63317
+1628976435783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1628976449747	Marionette	INFO	Stopped listening on port 63317
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628976595684	geckodriver	INFO	Listening on 127.0.0.1:63434
+1628976598731	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilecmK3qz"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628976601601	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilecmK3qz\\search.json.mozlz4", (void 0)))
+1628976607399	Marionette	INFO	Listening on port 63442
+1628976607496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1628976622483	Marionette	INFO	Stopped listening on port 63442
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1628978031877	geckodriver	INFO	Listening on 127.0.0.1:63576
+1628978035006	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilePyxdxj"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628978041211	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilePyxdxj\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628978052039	Marionette	INFO	Listening on port 63584
+1628978052551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1628978071539	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1628978087451	Marionette	INFO	Stopped listening on port 63584
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 5260, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628980247758	geckodriver	INFO	Listening on 127.0.0.1:63750
+1628980250710	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqqM63L"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1628980264634	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqqM63L\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1628980273227	Marionette	INFO	Listening on port 63758
+1628980273755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1628980302686	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1628980324381	Marionette	INFO	Stopped listening on port 63758
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 7940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x580001,name=PHttpBackgroundChannel::Msg_OnStartRequest) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x580003,name=PHttpBackgroundChannel::Msg_OnStopRequest) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x58000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+1629031640469	geckodriver	INFO	Listening on 127.0.0.1:53626
+1629031644029	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilerYw7UY"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629031650205	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilerYw7UY\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1629031670778	Marionette	INFO	Listening on port 53634
+1629031672148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629031683642	Marionette	INFO	Stopped listening on port 53634
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6892, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1629031810811	geckodriver	INFO	Listening on 127.0.0.1:53747
+1629031813951	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyyrKoB"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629031816872	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyyrKoB\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629031822785	Marionette	INFO	Listening on port 53755
+1629031823398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629031840968	Marionette	INFO	Stopped listening on port 53755
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629031955632	geckodriver	INFO	Listening on 127.0.0.1:53857
+1629031958726	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileNQ9CM6"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629031959581	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileNQ9CM6\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629031966386	Marionette	INFO	Listening on port 53865
+1629031966539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629032001587	Marionette	INFO	Stopped listening on port 53865
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629032057379	geckodriver	INFO	Listening on 127.0.0.1:53983
+1629032060458	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilewM6Cvc"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629032061414	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilewM6Cvc\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629032068892	Marionette	INFO	Listening on port 53991
+1629032069272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629032102967	Marionette	INFO	Stopped listening on port 53991
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629032145624	geckodriver	INFO	Listening on 127.0.0.1:54103
+1629032148836	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileElXoxr"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629032150311	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileElXoxr\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629032156593	Marionette	INFO	Listening on port 54111
+1629032157100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629032173658	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+1629032191416	Marionette	INFO	Stopped listening on port 54111
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629032236774	geckodriver	INFO	Listening on 127.0.0.1:54256
+1629032239876	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekeVXxj"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629032242546	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekeVXxj\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629032247996	Marionette	INFO	Listening on port 54264
+1629032248227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629032277614	Marionette	INFO	Stopped listening on port 54264
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629032523338	geckodriver	INFO	Listening on 127.0.0.1:54372
+1629032526394	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilehcyqim"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629032527933	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilehcyqim\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629032533894	Marionette	INFO	Listening on port 54380
+1629032534082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629032567118	Marionette	INFO	Stopped listening on port 54380
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629032603345	geckodriver	INFO	Listening on 127.0.0.1:54487
+1629032606427	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileN0f9yA"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629032608437	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileN0f9yA\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629032613707	Marionette	INFO	Listening on port 54495
+1629032614073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629032637143	Marionette	INFO	Stopped listening on port 54495
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1629032697126	geckodriver	INFO	Listening on 127.0.0.1:54612
+1629032700185	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilebaFxtS"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629032702303	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilebaFxtS\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629032707386	Marionette	INFO	Listening on port 54620
+1629032707907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629032734470	Marionette	INFO	Stopped listening on port 54620
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 1376, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1629033522475	geckodriver	INFO	Listening on 127.0.0.1:54763
+1629033525543	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilehfBzmw"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629033527688	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilehfBzmw\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629033533376	Marionette	INFO	Listening on port 54771
+1629033533840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629033563596	Marionette	INFO	Stopped listening on port 54771
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629034443920	geckodriver	INFO	Listening on 127.0.0.1:54951
+1629034446962	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilegW52Ts"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629034449658	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilegW52Ts\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629034457128	Marionette	INFO	Listening on port 54959
+1629034457506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629034485614	Marionette	INFO	Stopped listening on port 54959
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 9212, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1629034528180	geckodriver	INFO	Listening on 127.0.0.1:55095
+1629034531240	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHlruPC"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629034533699	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHlruPC\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629034540939	Marionette	INFO	Listening on port 55103
+1629034541397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1629034564850	Marionette	INFO	Stopped listening on port 55103
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1629034702055	geckodriver	INFO	Listening on 127.0.0.1:55274
+1629034705108	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile1TXp89"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629034712242	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile1TXp89\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629034721485	Marionette	INFO	Listening on port 55282
+1629034721685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629034759065	Marionette	INFO	Stopped listening on port 55282
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1629038990364	geckodriver	INFO	Listening on 127.0.0.1:55428
+1629038993608	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilepdKeLg"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629039000003	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilepdKeLg\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[Parent 3556, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1629039016755	Marionette	INFO	Listening on port 55436
+1629039017430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629039049091	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+1629039075121	Marionette	INFO	Stopped listening on port 55436
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 3556, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1629039201695	geckodriver	INFO	Listening on 127.0.0.1:55600
+1629039204746	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileMgmTTx"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629039207390	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileMgmTTx\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629039216405	Marionette	INFO	Listening on port 55608
+1629039217424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629039248880	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+1629039276678	Marionette	INFO	Stopped listening on port 55608
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629039514055	geckodriver	INFO	Listening on 127.0.0.1:55793
+1629039517127	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile77q9AN"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629039520425	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile77q9AN\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629039527159	Marionette	INFO	Listening on port 55801
+1629039527648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629039552964	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+1629039579260	Marionette	INFO	Stopped listening on port 55801
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629039829611	geckodriver	INFO	Listening on 127.0.0.1:55942
+1629039832628	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9y1iaL"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629039837301	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9y1iaL\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629039842973	Marionette	INFO	Listening on port 55950
+1629039843308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+1629039894321	Marionette	INFO	Stopped listening on port 55950
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629041140554	geckodriver	INFO	Listening on 127.0.0.1:56105
+1629041143615	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilerP9B9r"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629041147247	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilerP9B9r\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629041156061	Marionette	INFO	Listening on port 56113
+1629041156595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629041190430	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+1629041221841	Marionette	INFO	Stopped listening on port 56113
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629043537521	geckodriver	INFO	Listening on 127.0.0.1:56318
+1629043540856	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9uODDq"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629043547153	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9uODDq\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629043562577	Marionette	INFO	Listening on port 56326
+1629043563311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629043597988	Marionette	INFO	Stopped listening on port 56326
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 3548, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1629043667584	geckodriver	INFO	Listening on 127.0.0.1:56459
+1629043670630	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileMz11Fe"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629043674210	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileMz11Fe\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629043681151	Marionette	INFO	Listening on port 56467
+1629043681308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1629043710781	Marionette	INFO	Stopped listening on port 56467
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629043751958	geckodriver	INFO	Listening on 127.0.0.1:56585
+1629043755116	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileJAYUSk"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629043757853	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileJAYUSk\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629043764543	Marionette	INFO	Listening on port 56593
+1629043764841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629043795171	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+1629043811085	Marionette	INFO	Stopped listening on port 56593
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629043967694	geckodriver	INFO	Listening on 127.0.0.1:56747
+1629043970674	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQNrhsY"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629043975830	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQNrhsY\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629043988165	Marionette	INFO	Listening on port 56755
+1629043988409	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629044019032	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+1629044034305	Marionette	INFO	Stopped listening on port 56755
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1629045188879	geckodriver	INFO	Listening on 127.0.0.1:56926
+1629045191860	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilehV4Tp4"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629045195301	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilehV4Tp4\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629045202804	Marionette	INFO	Listening on port 56934
+1629045203017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629045233845	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+1629045250592	Marionette	INFO	Stopped listening on port 56934
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1629045422731	geckodriver	INFO	Listening on 127.0.0.1:57086
+1629045425743	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileNRWl4u"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629045430015	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileNRWl4u\\search.json.mozlz4", (void 0)))
+1629045437239	Marionette	INFO	Listening on port 57094
+1629045437711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629045468653	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+1629045487994	Marionette	INFO	Stopped listening on port 57094
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Extension shutdown: webcompat@mozilla.org","state":{"state":"Startup: Run manifest, asyncEmitManifestEntry(\"background\")"},"filename":"resource://gre/modules/addons/XPIProvider.jsm","lineNumber":2602,"stack":["resource://gre/modules/addons/XPIProvider.jsm:startup/<:2602","resource://gre/modules/AsyncShutdown.jsm:observe:575","chrome://remote/content/marionette/driver.js:GeckoDriver.prototype.quit:2768","chrome://remote/content/marionette/server.js:despatch:306","chrome://remote/content/marionette/server.js:execute:279","chrome://remote/content/marionette/server.js:onPacket/<:252","chrome://remote/content/marionette/server.js:onPacket:253","chrome://remote/content/marionette/transport.js:_onJSONObjectReady/<:500"]},{"name":"Extension shutdown: screenshots@mozilla.org","state":{"state":"Startup: Run manifest, asyncEmitManifestEntry(\"background\")"},"filename":"resource://gre/modules/addons/XPIProvider.jsm","lineNumber":2602,"stack":["resource://gre/modules/addons/XPIProvider.jsm:startup/<:2602","resource://gre/modules/AsyncShutdown.jsm:observe:575","chrome://remote/content/marionette/driver.js:GeckoDriver.prototype.quit:2768","chrome://remote/content/marionette/server.js:despatch:306","chrome://remote/content/marionette/server.js:execute:279","chrome://remote/content/marionette/server.js:onPacket/<:252","chrome://remote/content/marionette/server.js:onPacket:253","chrome://remote/content/marionette/transport.js:_onJSONObjectReady/<:500"]},{"name":"Extension shutdown: pictureinpicture@mozilla.org","state":{"state":"Startup: Run manifest, asyncEmitManifestEntry(\"background\")"},"filename":"resource://gre/modules/addons/XPIProvider.jsm","lineNumber":2602,"stack":["resource://gre/modules/addons/XPIProvider.jsm:startup/<:2602","resource://gre/modules/AsyncShutdown.jsm:observe:575","chrome://remote/content/marionette/driver.js:GeckoDriver.prototype.quit:2768","chrome://remote/content/marionette/server.js:despatch:306","chrome://remote/content/marionette/server.js:execute:279","chrome://remote/content/marionette/server.js:onPacket/<:252","chrome://remote/content/marionette/server.js:onPacket:253","chrome://remote/content/marionette/transport.js:_onJSONObjectReady/<:500"]},{"name":"Extension shutdown: formautofill@mozilla.org","state":{"state":"Startup: Run manifest, asyncEmitManifestEntry(\"background\")"},"filename":"resource://gre/modules/addons/XPIProvider.jsm","lineNumber":2602,"stack":["resource://gre/modules/addons/XPIProvider.jsm:startup/<:2602","resource://gre/modules/AsyncShutdown.jsm:observe:575","chrome://remote/content/marionette/driver.js:GeckoDriver.prototype.quit:2768","chrome://remote/content/marionette/server.js:despatch:306","chrome://remote/content/marionette/server.js:execute:279","chrome://remote/content/marionette/server.js:onPacket/<:252","chrome://remote/content/marionette/server.js:onPacket:253","chrome://remote/content/marionette/transport.js:_onJSONObjectReady/<:500"]}] Barrier: profile-change-teardown
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+FATAL ERROR: AsyncShutdown timeout in profile-change-teardown Conditions: [{"name":"Extension shutdown: webcompat@mozilla.org","state":{"state":"Startup: Run manifest, asyncEmitManifestEntry(\"background\")"},"filename":"resource://gre/modules/addons/XPIProvider.jsm","lineNumber":2602,"stack":["resource://gre/modules/addons/XPIProvider.jsm:startup/<:2602","resource://gre/modules/AsyncShutdown.jsm:observe:575","chrome://remote/content/marionette/driver.js:GeckoDriver.prototype.quit:2768","chrome://remote/content/marionette/server.js:despatch:306","chrome://remote/content/marionette/server.js:execute:279","chrome://remote/content/marionette/server.js:onPacket/<:252","chrome://remote/content/marionette/server.js:onPacket:253","chrome://remote/content/marionette/transport.js:_onJSONObjectReady/<:500"]},{"name":"Extension shutdown: screenshots@mozilla.org","state":{"state":"Startup: Run manifest, asyncEmitManifestEntry(\"background\")"},"filename":"resource://gre/modules/addons/XPIProvider.jsm","lineNumber":2602,"stack":["resource://gre/modules/addons/XPIProvider.jsm:startup/<:2602","resource://gre/modules/AsyncShutdown.jsm:observe:575","chrome://remote/content/marionette/driver.js:GeckoDriver.prototype.quit:2768","chrome://remote/content/marionette/server.js:despatch:306","chrome://remote/content/marionette/server.js:execute:279","chrome://remote/content/marionette/server.js:onPacket/<:252","chrome://remote/content/marionette/server.js:onPacket:253","chrome://remote/content/marionette/transport.js:_onJSONObjectReady/<:500"]},{"name":"Extension shutdown: pictureinpicture@mozilla.org","state":{"state":"Startup: Run manifest, asyncEmitManifestEntry(\"background\")"},"filename":"resource://gre/modules/addons/XPIProvider.jsm","lineNumber":2602,"stack":["resource://gre/modules/addons/XPIProvider.jsm:startup/<:2602","resource://gre/modules/AsyncShutdown.jsm:observe:575","chrome://remote/content/marionette/driver.js:GeckoDriver.prototype.quit:2768","chrome://remote/content/marionette/server.js:despatch:306","chrome://remote/content/marionette/server.js:execute:279","chrome://remote/content/marionette/server.js:onPacket/<:252","chrome://remote/content/marionette/server.js:onPacket:253","chrome://remote/content/marionette/transport.js:_onJSONObjectReady/<:500"]},{"name":"Extension shutdown: formautofill@mozilla.org","state":{"state":"Startup: Run manifest, asyncEmitManifestEntry(\"background\")"},"filename":"resource://gre/modules/addons/XPIProvider.jsm","lineNumber":2602,"stack":["resource://gre/modules/addons/XPIProvider.jsm:startup/<:2602","resource://gre/modules/AsyncShutdown.jsm:observe:575","chrome://remote/content/marionette/driver.js:GeckoDriver.prototype.quit:2768","chrome://remote/content/marionette/server.js:despatch:306","chrome://remote/content/marionette/server.js:execute:279","chrome://remote/content/marionette/server.js:onPacket/<:252","chrome://remote/content/marionette/server.js:onPacket:253","chrome://remote/content/marionette/transport.js:_onJSONObjectReady/<:500"]}] At least one completion condition failed to complete within a reasonable amount of time. Causing a crash to ensure that we do not leave the user with an unresponsive process draining resources.
+[Parent 7772, Main Thread] ###!!! ABORT: file resource://gre/modules/addons/XPIProvider.jsm:2602
+[Parent 7772, Main Thread] ###!!! ABORT: file resource://gre/modules/addons/XPIProvider.jsm:2602
+1629045856831	geckodriver	INFO	Listening on 127.0.0.1:57257
+1629045859792	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileJZqlhv"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629045863528	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileJZqlhv\\search.json.mozlz4", (void 0)))
+1629045870660	Marionette	INFO	Listening on port 57265
+1629045871093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629045903211	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+1629045930945	Marionette	INFO	Stopped listening on port 57265
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629045980523	geckodriver	INFO	Listening on 127.0.0.1:57429
+1629045983651	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileK1LNtH"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629045987408	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileK1LNtH\\search.json.mozlz4", (void 0)))
+1629045995421	Marionette	INFO	Listening on port 57437
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629045995802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629046030044	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+1629046074061	Marionette	INFO	Stopped listening on port 57437
+[Parent 8788, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter65, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:731:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:699:16\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2768:20\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter65, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2768:20\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Inspector destroyed while executing onReflow callback"
+console.error: "Error while calling actor 'watcher's method 'watchResources'" "An attempt was made to use an object that is not, or is no longer, usable"
+console.error: (new InvalidStateError("An attempt was made to use an object that is not, or is no longer, usable", (void 0), 101))
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 8788, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "this.pageStyle is null"
+console.error: (new TypeError("this.pageStyle is null", "resource://devtools/server/actors/style-rule.js", 584))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "this.pageStyle is null"
+console.error: (new TypeError("this.pageStyle is null", "resource://devtools/server/actors/style-rule.js", 584))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "this.pageStyle is null"
+console.error: (new TypeError("this.pageStyle is null", "resource://devtools/server/actors/style-rule.js", 584))
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "stylesheets: fetch failed for https://js.stripe.com/v3/fingerprinted/css/ui-shared-fbbc6b7fa9d2977c6c9a09143f3027fd.css, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to open input source 'https://js.stripe.com/v3/fingerprinted/css/ui-shared-fbbc6b7fa9d2977c6c9a09143f3027fd.css'"
+console.error: ({})
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1629046183761	geckodriver	INFO	Listening on 127.0.0.1:57594
+1629046186820	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilejHeHz7"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629046189497	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilejHeHz7\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1629046196371	Marionette	INFO	Listening on port 57602
+1629046196810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+1629046229240	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60081, line 33: unreachable code after return statement
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+1629046250525	Marionette	INFO	Stopped listening on port 57602
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630235396913	geckodriver	INFO	Listening on 127.0.0.1:55393
+1630235400008	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileoyFPGx"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630235402822	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileoyFPGx\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630235417975	Marionette	INFO	Listening on port 55401
+1630235418695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70001.4, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70001.4, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70001.4, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70001.4, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+1630235451466	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+1630235486933	Marionette	INFO	Stopped listening on port 55401
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 3108, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630236053190	geckodriver	INFO	Listening on 127.0.0.1:55585
+1630236056186	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyf5S2s"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630236059801	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyf5S2s\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630236066221	Marionette	INFO	Listening on port 55593
+1630236066626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70001.4, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70001.4, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70001.4, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70001.4, line 488: unreachable code after return statement
+1630236093038	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+1630236128113	Marionette	INFO	Stopped listening on port 55593
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630237063844	geckodriver	INFO	Listening on 127.0.0.1:55770
+1630237066943	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqNSebC"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630237068734	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqNSebC\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630237074452	Marionette	INFO	Listening on port 55778
+1630237074621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70001.4, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70001.4, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70001.4, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70001.4, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+1630237099349	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+1630237134243	Marionette	INFO	Stopped listening on port 55778
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630237138412	geckodriver	INFO	Listening on 127.0.0.1:55924
+1630237141448	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilebFv3kU"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630237143382	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilebFv3kU\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630237148509	Marionette	INFO	Listening on port 55932
+1630237148598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70001.4, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70001.4, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70001.4, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70001.4, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70001.4, line 488: unreachable code after return statement
+1630237165820	Marionette	INFO	Stopped listening on port 55932
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8060, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
